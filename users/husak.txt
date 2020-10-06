@@ -1,0 +1,1 @@
+{"username": "husak", "ID": "735199669", "data": "14.02.2020 19:20:59", "lvl": "0", "xp": "9", "daily": "0", "education": "0", "food": "0", "wear": "0", "travel": "0", "reg": "1", "admin": "0", "reward": "no"}
